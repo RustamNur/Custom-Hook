@@ -1,0 +1,12 @@
+.trip-card li{
+    border: 1px solid rgb(78, 75, 78);
+    list-style-type: none;
+    padding: 20px 50px;
+    border-radius: 15px;
+}
+
+.trip-card li:hover {
+    border: 3px solid rgb(150, 53, 214);
+    background-color: azure;
+    color: blue;
+}
